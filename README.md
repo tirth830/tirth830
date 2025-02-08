@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://yourimageurl.com/banner.jpg" alt="Tirth Patel's Banner" width="800"/>
+  <img src="https://images.unsplash.com/photo-1611080845882-29a396fa4059" alt="Tirth Patel's Banner" width="800"/>
 </div>
 
 <h1 align="center" style="color:#f4acb7;">🚀 Welcome to Tirth Patel's GitHub 🌟</h1>
@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/1190341/screenshots/4018891/media/3073709e6c7e99f7db7f87e0fa1fe6b3.gif" width="300" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/26tPoyDhjiJ2sVSB6/giphy.gif" width="300" alt="Coding GIF" />
 
 ### 👨‍💻 About Me
 
@@ -40,23 +40,33 @@ Here are some projects that reflect my passion and dedication:
 1. **🎥 VideoHub:**  
    - A video streaming platform, mimicking the functionality of YouTube.  
    - **Tech Stack:** React, Firebase, YouTube API.  
-   - 🌟 [Explore the Project](https://github.com/tirth830/VideoHub)
+   - 🌟 [Explore the Project](https://github.com/tirth830/VideoHub)  
+
+   <img src="https://media.giphy.com/media/xUPGczHZlWvUbcA89y/giphy.gif" width="400" alt="VideoHub Demo"/>
 
 2. **🤖 Personal Assistant (AI):**  
    - A voice-activated assistant powered by AI, designed to help with daily tasks.  
    - 🌟 [Check Out the Code](https://github.com/tirth830/Personal-Assistant)
 
+   <img src="https://media.giphy.com/media/3o6ZtrNmB1XbZg6ZoE/giphy.gif" width="400" alt="AI Assistant Demo"/>
+
 3. **🌐 WebGems (Portfolio):**  
    - A personal portfolio site to showcase my work and development journey.  
    - 🌟 [See It Live](https://github.com/tirth830/WebGems)
+
+   <img src="https://media.giphy.com/media/xTiTnI0A6hVRXgsw8I/giphy.gif" width="400" alt="WebGems Portfolio"/>
 
 4. **📦 E-Shop:**  
    - A simple e-commerce platform for buying and selling products online.  
    - 🌟 [Discover More](https://github.com/tirth830/E-Shop)
 
+   <img src="https://media.giphy.com/media/3o6fJdveIiJkBzscdy/giphy.gif" width="400" alt="E-Shop Demo"/>
+
 5. **🎮 GameZone:**  
    - A casual gaming platform built using React and game APIs.  
    - 🌟 [Play the Game](https://github.com/tirth830/GameZone)
+
+   <img src="https://media.giphy.com/media/l0MYmTkS6w0LlOU4U/giphy.gif" width="400" alt="GameZone Demo"/>
 
 ---
 
