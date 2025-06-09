@@ -34,40 +34,49 @@ I’m **Tirth Patel**, a passionate **Frontend Developer** who loves creating de
 ---
 
 ### 🚀 Projects I’m Proud Of
+---
 
-Here are some projects that reflect my passion and dedication:
+### 🧩 Project 1: Career Hub
 
-1. **🎥 VideoHub:**  
-   - A video streaming platform, mimicking the functionality of YouTube.  
-   - **Tech Stack:** React, Firebase, YouTube API.  
-   - 🌟 [Explore the Project](https://github.com/tirth830/VideoHub)  
+🔗 **Repo:** [Career Hub on GitHub](https://github.com/tirth830/Career-Hub)
+📁 **Type:** Job Hunting Platform
+🛠️ **Tech Stack:** `HTML` · `CSS` · `Bootstrap` · `JavaScript` · `PHP` · `MySQL`
 
-   <img src="https://media.giphy.com/media/xUPGczHZlWvUbcA89y/giphy.gif" width="400" alt="VideoHub Demo"/>
+**📌 Description:**
+Career Hub is a complete job portal built for students, professionals, and recruiters. It simplifies job search and hiring by providing features such as:
 
-2. **🤖 Personal Assistant (AI):**  
-   - A voice-activated assistant powered by AI, designed to help with daily tasks.  
-   - 🌟 [Check Out the Code](https://github.com/tirth830/Personal-Assistant)
+* 🔐 **Secure login/signup system** for job seekers and companies
+* 🗃️ **Job listings** with filters for category, location, and salary
+* 📄 **Resume upload and management**
+* 💬 **Job application tracking system**
+* 🏢 **Company dashboard** to post and manage openings
 
-   <img src="https://media.giphy.com/media/3o6ZtrNmB1XbZg6ZoE/giphy.gif" width="400" alt="AI Assistant Demo"/>
+**✨ Highlights:**
 
-3. **🌐 WebGems (Portfolio):**  
-   - A personal portfolio site to showcase my work and development journey.  
-   - 🌟 [See It Live](https://github.com/tirth830/WebGems)
+> A full-stack dynamic portal aimed at real-world usability in academic and early professional environments.
 
-   <img src="https://media.giphy.com/media/xTiTnI0A6hVRXgsw8I/giphy.gif" width="400" alt="WebGems Portfolio"/>
+---
 
-4. **📦 E-Shop:**  
-   - A simple e-commerce platform for buying and selling products online.  
-   - 🌟 [Discover More](https://github.com/tirth830/E-Shop)
+### 🛍️ Project 2: E-Commerce with Admin Panel
 
-   <img src="https://media.giphy.com/media/3o6fJdveIiJkBzscdy/giphy.gif" width="400" alt="E-Shop Demo"/>
+🔗 **Repo:** [E-com-With-Admin-Panel on GitHub](https://github.com/tirth830/E-com-With-Admin-Panel)
+📁 **Type:** Online Store with Backend Admin Control
+🛠️ **Tech Stack:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`
 
-5. **🎮 GameZone:**  
-   - A casual gaming platform built using React and game APIs.  
-   - 🌟 [Play the Game](https://github.com/tirth830/GameZone)
+**📌 Description:**
+An elegant e-commerce platform with an integrated admin panel. Designed for managing both frontend shopping experience and backend operations. Features include:
 
-   <img src="https://media.giphy.com/media/l0MYmTkS6w0LlOU4U/giphy.gif" width="400" alt="GameZone Demo"/>
+* 🛒 **Product display with categories** and responsive design
+* 🔐 **User authentication system**
+* 🧾 **Cart and checkout functionality**
+* 📦 **Admin dashboard** for managing products, categories, and orders
+* 📊 **Customer insights** and sales data tracking
 
+**✨ Highlights:**
+
+> Mimics real e-commerce business flow — great for learning admin-level product and inventory control.
+
+---
 ---
 
 ### 🌟 Achievements & Highlights
