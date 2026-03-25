@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="color:#f4acb7;">🚀 Welcome to Tirth Patel's GitHub 🌟</h1>
-<h3 align="center" style="color:#457b9d;">Frontend Developer | Tech Enthusiast | Innovator | Problem Solver</h3>
+<h3 align="center" style="color:#457b9d;">AI Enthusiast | Innovator | Problem Solver</h3>
 
 ---
 
@@ -27,7 +27,7 @@ I’m **Tirth Patel**, a passionate **Frontend Developer** who loves creating de
 
 | **Programming Languages** | **Libraries & Frameworks** | **Tools & Platforms** | **Soft Skills** |
 |----------------------------|----------------------------|------------------------|------------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-f4acb7?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-f4acb7?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-457b9d?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-f4acb7?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-457b9d?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-f4acb7?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-457b9d?style=for-the-badge&logo=mongodb&logoColor=white) | 🤝 Collaboration <br> 💡 Problem-Solving <br> 🎯 Leadership <br> 🗣️ Communication |
+| ![python](https://img.shields.io/badge/-JavaScript-f4acb7?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-f4acb7?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-457b9d?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-f4acb7?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-457b9d?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-f4acb7?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-457b9d?style=for-the-badge&logo=mongodb&logoColor=white) | 🤝 Collaboration <br> 💡 Problem-Solving <br> 🎯 Leadership <br> 🗣️ Communication |
 
 </div>
 
