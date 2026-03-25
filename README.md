@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png" alt="Tirth Patel's Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/tirth830/tirth830/main/banner.png" alt="Tirth Patel's Banner" width="800"/>
 </div>
 
 <h1 align="center" style="color:#f4acb7;">🚀 Welcome to Tirth Patel's GitHub 🌟</h1>
