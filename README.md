@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="300" alt="Coding GIF" />
+<img align="right" src="https://raw.githubusercontent.com/tirth830/tirth830/main/coding.webp" width="300" alt="Coding GIF" />
 
 ### 👨‍💻 About Me
 
@@ -25,9 +25,9 @@ I’m **Tirth Patel**, a passionate **AI/ML Developer** who loves creating delig
 
 <div align="center">
 
-| **Programming Languages** | **Libraries & Frameworks** | **Tools & Platforms** | **Soft Skills** |
-|----------------------------|----------------------------|------------------------|------------------|
-| ![python](https://img.shields.io/badge/-JavaScript-f4acb7?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-f4acb7?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-457b9d?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-f4acb7?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-457b9d?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-f4acb7?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-457b9d?style=for-the-badge&logo=mongodb&logoColor=white) | 🤝 Collaboration <br> 💡 Problem-Solving <br> 🎯 Leadership <br> 🗣️ Communication |
+| **Programming Languages** | **Libraries & Frameworks** | **Tools & Platforms** | **AI / ML** |
+|--------------------------|----------------------------|------------------------|--------------|
+| ![Python](https://img.shields.io/badge/-Python-f4acb7?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f4acb7?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-f4acb7?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-457b9d?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/-React-f4acb7?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-457b9d?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-f4acb7?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-457b9d?style=for-the-badge&logo=mongodb&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-f4acb7?style=for-the-badge&logo=scikitlearn&logoColor=white) ![AI](https://img.shields.io/badge/-AI-457b9d?style=for-the-badge&logo=openai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-f4acb7?style=for-the-badge&logo=tensorflow&logoColor=white) | 🤝 Collaboration <br> 💡 Problem-Solving <br> 🎯 Leadership <br> 🗣️ Communication |
 
 </div>
 
@@ -36,24 +36,25 @@ I’m **Tirth Patel**, a passionate **AI/ML Developer** who loves creating delig
 ### 🚀 Projects I’m Proud Of
 ---
 
-### 🧩 Project 1: Career Hub
+### 🧩 Project 1: Cold Mail Generator (AI)
 
-🔗 **Repo:** [Career Hub on GitHub](https://github.com/tirth830/Career-Hub)
-📁 **Type:** Job Hunting Platform
-🛠️ **Tech Stack:** `HTML` · `CSS` · `Bootstrap` · `JavaScript` · `PHP` · `MySQL`
+🔗 **Repo:** [Cold Mail Generator on GitHub](https://github.com/tirth830/Cold-Mail-Generator)
+📁 Type: AI-Based Automation Tool  
+🛠️ Tech Stack: Python ·  GrokAPI · NLP · Streamlit · Langchain
 
-**📌 Description:**
-Career Hub is a complete job portal built for students, professionals, and recruiters. It simplifies job search and hiring by providing features such as:
+📌 Description:  
+Cold Mail Generator is an AI-powered tool that automatically generates personalized and professional cold emails based on user input. It helps users save time and improve outreach effectiveness using natural language processing and generative AI.
 
-* 🔐 **Secure login/signup system** for job seekers and companies
-* 🗃️ **Job listings** with filters for category, location, and salary
-* 📄 **Resume upload and management**
-* 💬 **Job application tracking system**
-* 🏢 **Company dashboard** to post and manage openings
+🔐 User input-based email customization  
+🤖 AI-generated high-quality cold emails  
+⚡ Fast and automated content generation  
+📄 Multiple email variations for better outreach  
+🎯 Useful for job applications, sales, and networking  
 
-**✨ Highlights:**
+✨ Highlights:
 
-> A full-stack dynamic portal aimed at real-world usability in academic and early professional environments.
+A practical AI application demonstrating real-world usage of generative AI for communication and productivity enhancement.
+
 
 ---
 
