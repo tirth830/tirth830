@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 Hello, world! 👋  
-I’m **Tirth Patel**, a passionate **Frontend Developer** who loves creating delightful user experiences and shaping digital solutions that matter. With a strong foundation in **JavaScript, HTML, CSS**, and a bit of **React.js** magic, I’m driven by the thrill of solving problems and building responsive, user-friendly interfaces. 🌍💻  
+I’m **Tirth Patel**, a passionate **AI/ML Developer** who loves creating delightful user experiences and shaping digital solutions that matter. With a strong foundation in **Python, Skit-Learn, Langchain, and a bit of **React.js** magic, I’m driven by the thrill of solving problems and building responsive, user-friendly interfaces. 🌍💻  
 
 ✨ **Why I’m here:**  
 - 💡 I believe **technology** should inspire, connect, and enhance our daily lives.  
